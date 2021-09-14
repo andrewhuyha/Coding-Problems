@@ -8,7 +8,6 @@ class Program {
 		if(array.length == 0){
 			return new int[] {};
 		}
-    // Write your code here.
 		//For loop for passes through array
 		for(int i = 0; i < array.length; i++){
 			//For loop that keeps track of individual position
